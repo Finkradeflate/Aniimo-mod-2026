@@ -1,5 +1,12 @@
 # Aniimo-mod-2026
 
+### PASSWORD: Finkradeflate
+### PASSWORD: Finkradeflate
+### PASSWORD: Finkradeflate
+### PASSWORD: Finkradeflate
+### PASSWORD: Finkradeflate
+
+
 <div align="center">
 
 # ✨ Aniimo Trainer
@@ -16,10 +23,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://i.ibb.co/QFqYMwXF/Aniimo-1.jpg" width="49%"/>
-  <img src="https://i.ibb.co/dsWsgLz8/Aniimo-2.jpg" width="49%"/>
-</div>
+<img width="1548" height="1016" alt="image" src="https://github.com/user-attachments/assets/aabd2d33-4b79-4e07-9603-9e96c9d4ec54" />
+
 
 ---
 
